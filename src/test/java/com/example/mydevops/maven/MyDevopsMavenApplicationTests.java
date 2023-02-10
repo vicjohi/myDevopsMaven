@@ -10,8 +10,8 @@ class MyDevopsMavenApplicationTests {
 
 	@Test
 	void contextLoads() {
-boolean aa =true;
-		assertTrue(aa);
+boolean a =true;
+		assertTrue(a);
 	}
 
 }
